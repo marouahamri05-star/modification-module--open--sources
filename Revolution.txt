@@ -22,6 +22,13 @@ monotherapy in nmCRPC (non-metastatic castration-resistant prostate cancer),
 preliminary Phase II data suggests UNPRECEDENTED synergistic effects when combined 
 with standard chemotherapy docetaxel in mCRPC patients.
 
+### 🎯 Contexte scientifique
+
+Ce notebook explore l’application de modèles de classification (arbres de décision, forêts aléatoires) pour l’analyse de données cliniques liées au cancer de la prostate.  
+Il s’inscrit dans le cadre du protocole NCT-REVOLUTION-001, qui étudie l’effet combiné de Darolutamide et Docetaxel chez les patients atteints de mCRPC.  
+L’objectif est d’identifier des signatures moléculaires ou cliniques permettant de prédire la réponse au traitement et d’optimiser les stratégies thérapeutiques.
+Les résultats préliminaires suggèrent une synergie inédite entre les deux agents, justifiant l’analyse approfondie des paramètres ADME et des profils patients.
+
 HYPOTHESIS:
 -----------
 Sequential AR blockade (Darolutamide) followed by microtubule stabilization 
@@ -267,5 +274,6 @@ Document ID: PCR-SECRET-2024-001
 Digital Signature: [REDACTED]
 Access Log: This document has been accessed 14 times
 Last Modified: 2024-01-20 14:32:17 UTC
+
 
 END OF CONFIDENTIAL DOCUMENT
