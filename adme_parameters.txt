@@ -16,7 +16,7 @@ ABSORPTION:
 DISTRIBUTION:
   Protein Binding: 97-98%
   Volume of Distribution: 110 L
-  Blood-Brain Barrier: Crosses BBB
+  Blood-Brain Barrier: Crosses BBB  // Important à noter : peut entraîner des effets secondaires neurologiques
   Plasma Half-life: 5.8 days (major metabolite: 7.8-8.6 days)
 
 METABOLISM:
@@ -193,4 +193,5 @@ CLINICAL TRIAL REFERENCES:
 - PROfound (Olaparib): NEJM 2020; 382:2091-2102
 
 Last Updated: 2024-01-15
+
 Data Quality: Clinical-grade, peer-reviewed sources
